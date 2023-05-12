@@ -1,0 +1,3 @@
+C:/faculta/.C programming/MPI 1st activity PROJECT/cmake-build-debug/CMakeFiles/MPI_1st_activity_PROJECT.dir
+C:/faculta/.C programming/MPI 1st activity PROJECT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/faculta/.C programming/MPI 1st activity PROJECT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
